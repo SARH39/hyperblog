@@ -1,7 +1,7 @@
 body{
     color: #333;
     text-align: left;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     background: linear-gradient(54deg  ,rgba(255, 119, 0, 0.379), rgba(234, 255, 0, 0.478));
     background-repeat: no-repeat;
     width: 100vh;
