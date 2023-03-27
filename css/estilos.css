@@ -2,23 +2,44 @@ body{
     color: #333;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(24deg  ,rgba(255, 0, 0, 0.492), rgba(0,255,0, 0.3), rgb(0,0,255) );
+    background: linear-gradient(54deg  ,rgba(255, 119, 0, 0.379), rgba(234, 255, 0, 0.478));
     background-repeat: no-repeat;
     width: 100vh;
     height: 100vh;
     font-size: 16px;
 }
 
+#cabecera{ 
+
+    background: rgba(255, 115, 0, 0.701);
+    box-shadow: 0px 2px 50px 0px rgba(255, 72, 0, 0.711);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline{
+    
+    padding:0 0 0 1em ;
+    font-weight:normal ;
+    font-size:0.8em ;
+}
+
+
 #container{
 width: 70%;
-padding: 1em;
+padding: 0;
 text-align: left;
 border: 1px solid #ddd;
 margin: auto;
 
 }
 
-#container h1{
+#containerh1{
 
     font-size: 20px;
+}
+
+#post{
+    padding: 1em;
 }
