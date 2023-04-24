@@ -47,3 +47,11 @@ margin: auto;
 #post{
     margin:25px
 }
+
+#footer{
+
+    background: #ffae0073;
+    color white;
+    text-align: center;
+    padding: 0.5em;
+}
