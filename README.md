@@ -1,2 +1,13 @@
-# hyperblog
-un blog increíble  para el curso de git y github de platzi
+#hyperblog💚
+ Un blog increible para el curso de Git y Github de Platzi (practica de como hacer un correcto README.md )
+ >EL curso de Git y Github de Platiz es lo que me hacia falta para triplicar mi salario y lanzarme a la industria de la programacion 
+ > - samuel roa
+ 
+ ##En este curs vemos de todo:
+ * Todos los comandos de Git 
+ * EL flujo de trabajo en Github 
+ * El verdadero amor por las buenas practicas
+ * Trucos muy locos del profesor 
+ * Las multiples personalidades de freddy
+ 
+ Y como recordatorio: **este readme.md es solo un ejemplo y en la clase mencionan lo mismo** 
