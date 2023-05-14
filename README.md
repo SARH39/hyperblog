@@ -11,5 +11,6 @@
  * Las multiples personalidades de freddy
  * Creado por el increible Platzi Team
  * Incluye ejemplos en Linux, Windows y Macs
+ * Disponible para todas las edades
  
  Y como recordatorio: **este readme.md es solo un ejemplo y en la clase mencionan lo mismo** 
